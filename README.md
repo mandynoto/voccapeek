@@ -2,14 +2,12 @@
 
 # voccapeek
 
-Define and sanctify
-
-> Based on CSc 340 Assignment 2
+Define and sanctify  ( based on CSc 340 Assignment 2 )
 
 </div>
 
 <p align="center">
-  <img src="/frontend/src/images/logo.svg" alt="Logo" width="200px">
+  <img src="assets/logo.png" alt="Logo" width="200px">
 </p>
 
 <p align="center">
@@ -18,17 +16,7 @@ Define and sanctify
 
 ![preview](assets/demo.gif)
 
-## Contents
-
-- [Framework](#framework)
-- [Usage](#usage)
-
-### Framework
-
-Full stack application based on React and Python Flask
-
 ### Usage
 
-1. docker-compose up
-2. Type and enter in your browser http://localhost:3000
-3. Type and enter in your browser http://localhost:8080 for database
+1. `make`
+2. `make run`
